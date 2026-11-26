@@ -1,4 +1,3 @@
-
 # Quality checks of Bronze Layer (Before loading the Silver Layer)
 Here we perform certain transformations in order to clean Bronze Layer and make ready for loading to Silver Layer 
 - Removal of unwanted spaces (either leading spaces or lagging spaces)
